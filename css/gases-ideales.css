@@ -1,0 +1,28 @@
+
+
+@media screen and (min-width: 430px){
+    .img-basica{
+   
+        margin-left: auto;
+        margin-right: auto;
+        width: 600px;
+        height: 90vh;
+        position: relative;
+      
+      }
+}
+
+@media screen and (min-width: 1024px){
+    .img-basica{
+   
+        margin-left: auto;
+        margin-right: auto;
+        width: 600px;
+        height: 100vh;
+        position: relative;
+      
+      }
+    
+
+    
+}
